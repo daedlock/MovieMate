@@ -1,0 +1,17 @@
+* {
+  font-family: "Lato"
+}
+
+body, html, div, p {
+  padding: 0;
+  margin: 0;
+}
+body, html {
+  height: 100%;
+}
+body {
+  display: flex;
+}
+#root {
+  flex-grow: 1;
+}

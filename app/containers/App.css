@@ -1,0 +1,22 @@
+.layout {
+  display: flex;
+  height: 100%;
+}
+
+.content {
+  flex: 1 1;
+  padding: 15px;
+  background: #F1F1F1;
+}
+
+.sidebar {
+flex: 1;
+max-width: 200px;
+
+  background: black;
+
+}
+
+.child {
+flex: 1;
+}
