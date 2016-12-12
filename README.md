@@ -3,14 +3,14 @@ A universal desktop app that changes your movie night experience. You feed it yo
   
 ![Alt Screenshot](https://github.com/daedlock/MovieMate/raw/master/resources/screenshot.png)
 ___
-**Movie**Mate is built with
+### Movie
 * React
 * Redux
 * Webpack
 * Electron
 * Lots of love
   
-**Features:**  
+### Features
 * Sync it with your movie library (folders, external hdd..etc) 
 * Get movies presented as covers with scraped ratings
 * Get movie information from imdb, rottentomatoes 
@@ -20,7 +20,7 @@ ___
 * Get movie subtitles from opensubtitles, subscene..etc   
    
    
-**How it Works**  
+### How it Works  
 After adding your media sources (files and folders) MovieMate does the following
 * Extract movie title from file name
 * Scrapes movie information from imdb, rottentomatoes
