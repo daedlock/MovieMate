@@ -1,5 +1,6 @@
 # MovieMate
 A universal desktop app that changes your movie night experience. You feed it your movie files and it does all the magic.  
+![Alt Screenshot](https://github.com/daedlock/MovieMate/raw/master/resources/screenshot.png)
 
 **Movie**Mate is built with
 * React
@@ -29,7 +30,6 @@ All the above happens in a harmonic unique experience similar to that of xbmc tv
 
 Welcoming feedback and ideas!
 
-![Alt Screenshot](https://github.com/daedlock/MovieMate/raw/master/resources/screenshot.png)
 
 #TODO
 Roadmap on https://trello.com/b/D2npB3XP/moviemate
