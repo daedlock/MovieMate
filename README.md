@@ -36,6 +36,7 @@ Welcoming feedback and ideas!
 
 
 #TODO
+- [ ] Build Process & CI
 - [ ] IMDB Scraper (Cast, Reviews, Rating, Cover Photos, Plotlines, Genre)
 - [ ] RottenTomatoes Scraper (Cast, Reviews, Rating, Cover Photos, Plotlines, Genre)
 - [ ] OpenSubtitles Scraper (Get subtitles for a movie title, year)
