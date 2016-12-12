@@ -23,7 +23,7 @@ Welcoming feedback and ideas!
 
 
 # Mockup
-![Alt Screenshot](https://d1ro8r1rbfn3jf.cloudfront.net/ms_68709/IxDyD6zlvusvkff4ufZ3Gr4BJcNbjg/Moviemate.jpg?Expires=1481665887&Signature=RFmZO6Ck0TU8fTM7v72KJ8aMjUDTXbmW1dgeFK1C5GCPsol0J5LYRr7FX4oU2xpySuRBEG45jwGG6SKHWDujZugJ4NOTiG~NZGOGjtS7BGm8OfPmuMg426HvuvQ22KpWwg-FxOh8ISYjmJG7G~WDdVRCPYK04rBofPfya~SJqTAkTlHnvd2eufd~vrkoYOLn~2YeP7e-5UNQKCqu26IRuy9d5xPfjetgbK8EWYPE2bVCApSpo2-tVU1hUPbWKSQCeiklnAjOOyU97kl5~kkAVJv~Y0tpxquXh99LJouz-ZaiZRv1T7Y5qaD4dYfO60awQtJM77Mb96huuoDHkbyXRg__&Key-Pair-Id=APKAJHEJJBIZWFB73RSA)
+![Alt Screenshot](https://github.com/daedlock/MovieMate/raw/master/resources/screenshot.png)
 # Development
 Development has just started
 # Contribution
