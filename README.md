@@ -21,9 +21,11 @@ All the above happens in a harmonic unique experience similar to that of xbmc tv
 
 Welcoming feedback and ideas!
 
-
-# Mockup
 ![Alt Screenshot](https://github.com/daedlock/MovieMate/raw/master/resources/screenshot.png)
+
+#TODO
+Roadmap on https://trello.com/b/D2npB3XP/moviemate
+
 # Development
 Development has just started
 # Contribution
