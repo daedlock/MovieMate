@@ -1,4 +1,4 @@
-# MovieMate :movie_camera:
+<h1 align="center">:movie_camera: MovieMate :movie_camera:</h1>
 A universal desktop app that changes your movie night experience. You feed it your movie files and it does all the :boom: magic :boom:.  
   
 ![Alt Screenshot](https://github.com/daedlock/MovieMate/raw/master/resources/screenshot.png)
