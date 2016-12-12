@@ -3,7 +3,7 @@ A universal desktop app that changes your movie night experience. You feed it yo
   
 ![Alt Screenshot](https://github.com/daedlock/MovieMate/raw/master/resources/screenshot.png)
 ___
-### Movie
+### Built With
 * React
 * Redux
 * Webpack
