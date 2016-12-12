@@ -3,6 +3,9 @@ A universal desktop app that changes your movie night experience. You feed it yo
   
 ![Alt Screenshot](https://github.com/daedlock/MovieMate/raw/master/resources/screenshot.png)
 ___
+
+### :zap: Idea
+Decided to start the project after discussion on reddit https://redd.it/5hq84d
 ### :wrench: Built With
 * React
 * Redux
