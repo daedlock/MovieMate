@@ -1,7 +1,8 @@
 # MovieMate
 A universal desktop app that changes your movie night experience. You feed it your movie files and it does all the magic.  
+  
 ![Alt Screenshot](https://github.com/daedlock/MovieMate/raw/master/resources/screenshot.png)
-
+___
 **Movie**Mate is built with
 * React
 * Redux
