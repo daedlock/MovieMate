@@ -18,7 +18,7 @@ A universal desktop app that changes your movie night experience. You feed it yo
 * Get movie subtitles from opensubtitles, subscene..etc   
    
    
-**How it Works**
+**How it Works**  
 After adding your media sources (files and folders) MovieMate does the following
 * Extract movie title from file name
 * Scrapes movie information from imdb, rottentomatoes
