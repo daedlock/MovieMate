@@ -45,7 +45,7 @@ Welcoming feedback and ideas!
 - [ ] Movie Player
 - [ ] RTP Streaming
 
-Roadmap on https://trello.com/b/D2npB3XP/moviemate
+Roadmap on https://trello.com/b/yhLFm248/moviemate-roadmap
 
 # Development
 Development has just started
