@@ -48,7 +48,13 @@ Welcoming feedback and ideas!
 Roadmap on https://trello.com/b/yhLFm248/moviemate-roadmap
 
 # Development
-Development has just started
+Development has just started. To run locally
+```
+git clone https://github.com/daedlock/MovieMate && cd $_
+npm install
+npm run dev
+```
+
 # Contribution
 Are always welcome
 
